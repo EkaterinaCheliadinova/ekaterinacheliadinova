@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a graduate with a strong background in computer science, statistics, econometrics with hands-on experience in exploratory data analysis, machine learning, computer vision, and time series analysis. In my role as a Data Scientist at Ouilink, a startup specializing in data-driven solutions for the restaurant and hotel industry, I leverage my skills to drive actionable insights and solutions. I am deeply passionate about continuous learning and am currently focused on enhancing my skills in deep learning. I thrive on tackling new challenges and am committed to making meaningful contributions in the field of data science
+
+#### You can contact me here:
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+
+[gmail]: mailto:ekaterina.cheliadinova@gmail.com
+[linkedin]: [https://www.linkedin.com/in/jhonnatan-gomes/](https://www.linkedin.com/in/ekaterina-cheliadinova-8030271b9/)

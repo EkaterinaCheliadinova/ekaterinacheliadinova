@@ -23,4 +23,4 @@ I am a graduate with a strong background in computer science, statistics, econom
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 [gmail]: mailto:ekaterina.cheliadinova@gmail.com
-[linkedin]: [https://www.linkedin.com/in/jhonnatan-gomes/](https://www.linkedin.com/in/ekaterina-cheliadinova-8030271b9/)
+[linkedin]: https://www.linkedin.com/in/ekaterina-cheliadinova-8030271b9/
